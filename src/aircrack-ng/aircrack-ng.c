@@ -210,7 +210,7 @@ static const unsigned char R[256] = {
 
 static const char usage[]
 	= "\n"
-	  "  %s - (C) 2006-2020 Thomas d\'Otreppe\n"
+	  "  %s - (C) YAYAYAYAYAYAYAYYAYAYAYAYAYAY\n"
 	  "  https://www.aircrack-ng.org\n"
 	  "\n"
 	  "  usage: aircrack-ng [options] <input file(s)>\n"
